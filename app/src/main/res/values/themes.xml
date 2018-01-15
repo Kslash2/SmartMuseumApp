@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //for more: https://www.materialpalette.com/
+
+    <style name="OrangeAmber" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textAppearance">@color/primary_text</item>
+        <item name="android:colorForeground">@color/primary_text</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+        <item name="android:textColorSecondaryInverse">@color/divider</item>
+        <item name="android:colorButtonNormal">@color/accent</item>
+        <item name="android:navigationBarColor">@color/navigation_bar</item>
+    </style>
+
+    <style name="IndigoPink" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/background1</item>
+        <item name="android:textAppearance">@color/primary_text1</item>
+        <item name="android:colorForeground">@color/primary_text1</item>
+        <item name="colorPrimary">@color/primary1</item>
+        <item name="colorPrimaryDark">@color/primary_dark1</item>
+        <item name="colorAccent">@color/accent1</item>
+        <item name="android:textColorPrimary">@color/primary_text1</item>
+        <item name="android:textColorSecondary">@color/secondary_text1</item>
+        <item name="android:textColorSecondaryInverse">@color/divider1</item>
+        <item name="android:colorButtonNormal">@color/accent1</item>
+        <item name="android:navigationBarColor">@color/navigation_bar1</item>
+    </style>
+
+    <style name="RedOrange" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/background2</item>
+        <item name="android:textAppearance">@color/primary_text2</item>
+        <item name="android:colorForeground">@color/primary_text2</item>
+        <item name="colorPrimary">@color/primary2</item>
+        <item name="colorPrimaryDark">@color/primary_dark2</item>
+        <item name="colorAccent">@color/accent2</item>
+        <item name="android:textColorPrimary">@color/primary_text2</item>
+        <item name="android:textColorSecondary">@color/secondary_text2</item>
+        <item name="android:textColorSecondaryInverse">@color/divider2</item>
+        <item name="android:colorButtonNormal">@color/accent2</item>
+        <item name="android:navigationBarColor">@color/navigation_bar2</item>
+    </style>
+
+    <style name="TealPurple" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/background3</item>
+        <item name="android:textAppearance">@color/primary_text3</item>
+        <item name="android:colorForeground">@color/primary_text3</item>
+        <item name="colorPrimary">@color/primary3</item>
+        <item name="colorPrimaryDark">@color/primary_dark3</item>
+        <item name="colorAccent">@color/accent3</item>
+        <item name="android:textColorPrimary">@color/primary_text3</item>
+        <item name="android:textColorSecondary">@color/secondary_text3</item>
+        <item name="android:textColorSecondaryInverse">@color/divider3</item>
+        <item name="android:colorButtonNormal">@color/accent3</item>
+        <item name="android:navigationBarColor">@color/navigation_bar3</item>
+    </style>
+
+</resources>

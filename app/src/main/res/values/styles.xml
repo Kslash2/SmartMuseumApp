@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="OrangeAmber.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="OrangeAmber.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="OrangeAmber.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

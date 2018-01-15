@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //orange-amber
+    <color name="primary">#ff5722</color>
+    <color name="primary_dark">#e64a19</color>
+    <color name="primary_light">#FFCCBC</color>
+    <color name="accent">#ffc107</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#bdbdbd</color>
+    <color name="background">#FFFFFF</color>
+    <color name="navigation_bar">#000000</color>
+
+    //indigo-purple
+    <color name="primary1">#3F51B5</color>
+    <color name="primary_dark1">#303F9F</color>
+    <color name="primary_light1">#C5CAE9</color>
+    <color name="accent1">#FF4081</color>
+    <color name="primary_text1">#212121</color>
+    <color name="secondary_text1">#757575</color>
+    <color name="icons1">#FFFFFF</color>
+    <color name="divider1">#BDBDBD</color>
+    <color name="background1">#FFFFFF</color>
+    <color name="navigation_bar1">#000000</color>
+
+    //red-orange
+    <color name="primary2">#FF5722</color>
+    <color name="primary_dark2">#E64A19</color>
+    <color name="primary_light2">#FFCCBC</color>
+    <color name="accent2">#FF9800</color>
+    <color name="primary_text2">#212121</color>
+    <color name="secondary_text2">#757575</color>
+    <color name="icons2">#FFFFFF</color>
+    <color name="divider2">#BDBDBD</color>
+    <color name="background2">#FFFFFF</color>
+    <color name="navigation_bar2">#000000</color>
+
+    //teal-purple
+    <color name="primary3">#009688</color>
+    <color name="primary_dark3">#00796B</color>
+    <color name="primary_light3">#B2DFDB</color>
+    <color name="accent3">#E040FB</color>
+    <color name="primary_text3">#212121</color>
+    <color name="secondary_text3">#757575</color>
+    <color name="icons3">#FFFFFF</color>
+    <color name="divider3">#BDBDBD</color>
+    <color name="background3">#FFFFFF</color>
+    <color name="navigation_bar3">#000000</color>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+
+    <string name="title_activity_main">SmartMuseum Home</string>
+    <string name="title_barcode_capture">SmartMuseum QR Scanner</string>
+    <string name="title_activity_result">Artifact Form</string>
+
+    <string name="barcode_header">Click &quot;Read QR&quot; to read a QR</string>
+    <string name="read_QR">Read QR</string>
+    <string name="QR_success">QR read successfully</string>
+    <string name="QR_failure">No QR captured</string>
+    <string name="QR_error">"Error reading QR: %1$s"</string>
+
+    <string name="main_dialog_title">Welcome in SmartMuseum</string>
+    <string name="main_dialog_message">Press the button to start!</string>
+    <string name="barcode_dialog_title">QR Scanner SmartMuseum</string>
+    <string name="barcode_dialog_message">Point the QR Code and scan!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
